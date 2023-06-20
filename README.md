@@ -13,4 +13,4 @@ Awesome work, Richard! Your project looks great and after seeing so many of thes
 
 Nice job ensuring that your function returns the entire quote object and then adding in those extra features! I added a hint in the individual rubric if you want to try creating a non-repeating randomizer.
 
-Live Demo:
+Live Demo: https://jadavshraddha.github.io/Random-Quote-Generator/
